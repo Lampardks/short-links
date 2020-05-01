@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://lampard:qazwsx123!@cluster0-dq9yq.mongodb.net/app",
+  "jwtSecret": "denys lampard romanov",
+  "baseUrl": "http://localhost:5000"
+}
